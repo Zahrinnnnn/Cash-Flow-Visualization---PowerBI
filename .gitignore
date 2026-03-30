@@ -1,0 +1,14 @@
+# Claude AI assistant files
+.claude/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Power BI temp files
+*.pbix.bak
